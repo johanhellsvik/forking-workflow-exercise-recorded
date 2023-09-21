@@ -6,7 +6,6 @@ This recipe is taken from https://rasamalaysia.com/kung-pao-chicken-tacos/
 
 Savory and slightly spicy chicken and roasted peanuts make the tacos so delicious.
 
-
 ## Ingredients
 
 - 1 1/2 boneless and skinless chicken breasts, cut into small cubes
